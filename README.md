@@ -25,6 +25,5 @@
 
 
 ## 👤 Autora
-**Feito por:** 
 ### Karen da Silva Braga
 - GitHUb (https://github.com/karendsbraga).
